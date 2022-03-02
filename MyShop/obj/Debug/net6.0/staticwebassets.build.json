@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "Hash": "WINtDNwiOLg6Y0/q6M0Zrwh4pRkerm4IDB8PZL3ex2w=",
+  "Source": "MyShop",
+  "BasePath": "_content/MyShop",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MyShop\\wwwroot",
+      "Source": "MyShop",
+      "ContentRoot": "P:\\Учёба\\Project\\source\\repos\\ASP\\Homework\\Blazor WebAssembly\\MyShop\\wwwroot\\",
+      "BasePath": "_content/MyShop",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "P:\\Учёба\\Project\\source\\repos\\ASP\\Homework\\Blazor WebAssembly\\MyShop\\obj\\Debug\\net6.0\\scopedcss\\bundle\\MyShop.styles.css",
+      "SourceId": "MyShop",
+      "SourceType": "Computed",
+      "ContentRoot": "P:\\Учёба\\Project\\source\\repos\\ASP\\Homework\\Blazor WebAssembly\\MyShop\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/MyShop",
+      "RelativePath": "MyShop.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "P:\\Учёба\\Project\\source\\repos\\ASP\\Homework\\Blazor WebAssembly\\MyShop\\obj\\Debug\\net6.0\\scopedcss\\bundle\\MyShop.styles.css"
+    },
+    {
+      "Identity": "P:\\Учёба\\Project\\source\\repos\\ASP\\Homework\\Blazor WebAssembly\\MyShop\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\MyShop.bundle.scp.css",
+      "SourceId": "MyShop",
+      "SourceType": "Computed",
+      "ContentRoot": "P:\\Учёба\\Project\\source\\repos\\ASP\\Homework\\Blazor WebAssembly\\MyShop\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/MyShop",
+      "RelativePath": "MyShop.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "P:\\Учёба\\Project\\source\\repos\\ASP\\Homework\\Blazor WebAssembly\\MyShop\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\MyShop.bundle.scp.css"
+    },
+    {
+      "Identity": "P:\\Учёба\\Project\\source\\repos\\ASP\\Homework\\Blazor WebAssembly\\MyShop\\wwwroot\\background.png",
+      "SourceId": "MyShop",
+      "SourceType": "Discovered",
+      "ContentRoot": "P:\\Учёба\\Project\\source\\repos\\ASP\\Homework\\Blazor WebAssembly\\MyShop\\wwwroot\\",
+      "BasePath": "_content/MyShop",
+      "RelativePath": "background.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\background.png"
+    },
+    {
+      "Identity": "P:\\Учёба\\Project\\source\\repos\\ASP\\Homework\\Blazor WebAssembly\\MyShop\\wwwroot\\exampleJsInterop.js",
+      "SourceId": "MyShop",
+      "SourceType": "Discovered",
+      "ContentRoot": "P:\\Учёба\\Project\\source\\repos\\ASP\\Homework\\Blazor WebAssembly\\MyShop\\wwwroot\\",
+      "BasePath": "_content/MyShop",
+      "RelativePath": "exampleJsInterop.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\exampleJsInterop.js"
+    }
+  ]
+}

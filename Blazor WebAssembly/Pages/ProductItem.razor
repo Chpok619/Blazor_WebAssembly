@@ -1,0 +1,13 @@
+﻿@using MyShop
+
+<img src="@Product.Image"/>
+<div>
+    <p>Name: @Product.Name</p>
+    <p>Price: @Product.Price</p>
+    <p>Category: @Product.Category.Name</p>
+</div>
+
+@code {
+    [Parameter]
+    public Product Product { get; set; }
+}

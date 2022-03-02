@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blazor WebAssembly", "Blazor WebAssembly\Blazor WebAssembly.csproj", "{2F9D9A93-9B4F-4496-BF95-6DA9076A45FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyShop", "MyShop\MyShop.csproj", "{C9B34BA2-F1AB-4D84-AE32-212001F13EE4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F9D9A93-9B4F-4496-BF95-6DA9076A45FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F9D9A93-9B4F-4496-BF95-6DA9076A45FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F9D9A93-9B4F-4496-BF95-6DA9076A45FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F9D9A93-9B4F-4496-BF95-6DA9076A45FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9B34BA2-F1AB-4D84-AE32-212001F13EE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9B34BA2-F1AB-4D84-AE32-212001F13EE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9B34BA2-F1AB-4D84-AE32-212001F13EE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9B34BA2-F1AB-4D84-AE32-212001F13EE4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,34 @@
+﻿@page "/CatalogPage"
+
+@using MyShop
+
+@inject ICatalog Catalog
+@inject ICartForShop Cart
+@inject CountProducts CountProducts
+
+<h3>Catalog</h3>
+
+@foreach (var product in _catalog)
+{
+    <p>@product.Name - <a href="/ProductCard/@product.Id"><img src="@product.Image"/></a><button @onclick="() => AddToCart(product)">Add</button></p>
+}
+
+@code {
+    private IReadOnlyList<Product>? _catalog;
+    private IReadOnlyList<Product>? _cart;
+
+    protected override void OnInitialized()
+    {
+        _catalog = Catalog.GetProducts();
+        _cart = Cart.GetCart();
+    }
+
+    private void AddToCart(Product prod)
+    {
+        Cart.AddToCart(prod);
+
+        _cart = Cart.GetCart();
+
+        CountProducts.Count++;
+    }
+}

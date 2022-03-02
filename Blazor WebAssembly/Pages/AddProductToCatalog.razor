@@ -1,0 +1,42 @@
+﻿@page "/AddProductToCatalog"
+@using MyShop
+
+@inject ICatalog Catalog
+
+<h3>Adding</h3>
+<form>
+    Name: <input type="text" name="name" @bind="Name"/>
+    Price: <input type="number" name="price" @bind="Price"/>
+    Category:
+    <select name="category" @bind="Category">
+        @foreach (var category in _categories)
+        {
+            <option value="@category.Name">@category.Name</option>
+        }
+    </select>
+    Image's url: <input type="text" name="image" @bind="Image"/>
+    <input type="submit" name="add" @onclick="AddProduct" value="Add"/>
+</form>
+@code {
+    private string? Name { get; set; }
+    private int Price { get; set; }
+    // private Category Category { get; set; }
+    private string Category { get; set; }
+    // private Uri Image { get; set; }
+    private string Image { get; set; }
+
+    private IReadOnlyList<Category> _categories;
+    
+    protected override void OnInitialized()
+    {
+        base.OnInitialized();
+        _categories = Catalog.GetCategories();
+    }
+
+    private void AddProduct()
+    {
+        Product product = new Product(Catalog.GetProducts().Count + 1, Name, Price, Catalog.GetCategory(Category), new Uri(Image));
+        
+        Catalog.AddProduct(product);
+    }
+}

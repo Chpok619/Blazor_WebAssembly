@@ -1,0 +1,22 @@
+﻿@page "/ProductCard/{ProductId:int}"
+
+@using MyShop
+
+@inject ICatalog Catalog
+<h3>Product Card</h3>
+
+<ProductItem Product="@Product"></ProductItem>
+
+@code {
+    [Parameter]
+    public int ProductId { get; set; }
+    
+    public  Product Product { get; set; }
+
+    protected override void OnInitialized()
+    {
+        base.OnInitialized();
+
+        Product = Catalog.GetProduct(ProductId);
+    }
+}

@@ -1,0 +1,54 @@
+C:\Users\Роберт\Desktop\MyShop\bin\Debug\net6.0\MyShop.staticwebassets.runtime.json
+C:\Users\Роберт\Desktop\MyShop\bin\Debug\net6.0\MyShop.deps.json
+C:\Users\Роберт\Desktop\MyShop\bin\Debug\net6.0\MyShop.dll
+C:\Users\Роберт\Desktop\MyShop\bin\Debug\net6.0\ref\MyShop.dll
+C:\Users\Роберт\Desktop\MyShop\bin\Debug\net6.0\MyShop.pdb
+C:\Users\Роберт\Desktop\MyShop\obj\Debug\net6.0\MyShop.csproj.AssemblyReference.cache
+C:\Users\Роберт\Desktop\MyShop\obj\Debug\net6.0\MyShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Роберт\Desktop\MyShop\obj\Debug\net6.0\MyShop.AssemblyInfoInputs.cache
+C:\Users\Роберт\Desktop\MyShop\obj\Debug\net6.0\MyShop.AssemblyInfo.cs
+C:\Users\Роберт\Desktop\MyShop\obj\Debug\net6.0\MyShop.csproj.CoreCompileInputs.cache
+C:\Users\Роберт\Desktop\MyShop\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Роберт\Desktop\MyShop\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Роберт\Desktop\MyShop\obj\Debug\net6.0\scopedcss\Component1.razor.rz.scp.css
+C:\Users\Роберт\Desktop\MyShop\obj\Debug\net6.0\scopedcss\bundle\MyShop.styles.css
+C:\Users\Роберт\Desktop\MyShop\obj\Debug\net6.0\scopedcss\projectbundle\MyShop.bundle.scp.css
+C:\Users\Роберт\Desktop\MyShop\obj\Debug\net6.0\MyShop.dll
+C:\Users\Роберт\Desktop\MyShop\obj\Debug\net6.0\ref\MyShop.dll
+C:\Users\Роберт\Desktop\MyShop\obj\Debug\net6.0\MyShop.pdb
+P:\Учёба\Project\source\repos\ASP\Classwork\MyShop\bin\Debug\net6.0\MyShop.staticwebassets.runtime.json
+P:\Учёба\Project\source\repos\ASP\Classwork\MyShop\bin\Debug\net6.0\MyShop.deps.json
+P:\Учёба\Project\source\repos\ASP\Classwork\MyShop\bin\Debug\net6.0\MyShop.dll
+P:\Учёба\Project\source\repos\ASP\Classwork\MyShop\bin\Debug\net6.0\ref\MyShop.dll
+P:\Учёба\Project\source\repos\ASP\Classwork\MyShop\bin\Debug\net6.0\MyShop.pdb
+P:\Учёба\Project\source\repos\ASP\Classwork\MyShop\obj\Debug\net6.0\MyShop.csproj.AssemblyReference.cache
+P:\Учёба\Project\source\repos\ASP\Classwork\MyShop\obj\Debug\net6.0\MyShop.GeneratedMSBuildEditorConfig.editorconfig
+P:\Учёба\Project\source\repos\ASP\Classwork\MyShop\obj\Debug\net6.0\MyShop.AssemblyInfoInputs.cache
+P:\Учёба\Project\source\repos\ASP\Classwork\MyShop\obj\Debug\net6.0\MyShop.AssemblyInfo.cs
+P:\Учёба\Project\source\repos\ASP\Classwork\MyShop\obj\Debug\net6.0\MyShop.csproj.CoreCompileInputs.cache
+P:\Учёба\Project\source\repos\ASP\Classwork\MyShop\obj\Debug\net6.0\staticwebassets.build.json
+P:\Учёба\Project\source\repos\ASP\Classwork\MyShop\obj\Debug\net6.0\staticwebassets.development.json
+P:\Учёба\Project\source\repos\ASP\Classwork\MyShop\obj\Debug\net6.0\scopedcss\Component1.razor.rz.scp.css
+P:\Учёба\Project\source\repos\ASP\Classwork\MyShop\obj\Debug\net6.0\scopedcss\bundle\MyShop.styles.css
+P:\Учёба\Project\source\repos\ASP\Classwork\MyShop\obj\Debug\net6.0\scopedcss\projectbundle\MyShop.bundle.scp.css
+P:\Учёба\Project\source\repos\ASP\Classwork\MyShop\obj\Debug\net6.0\MyShop.dll
+P:\Учёба\Project\source\repos\ASP\Classwork\MyShop\obj\Debug\net6.0\ref\MyShop.dll
+P:\Учёба\Project\source\repos\ASP\Classwork\MyShop\obj\Debug\net6.0\MyShop.pdb
+P:\Учёба\Project\source\repos\ASP\Homework\Blazor WebAssembly\MyShop\bin\Debug\net6.0\MyShop.staticwebassets.runtime.json
+P:\Учёба\Project\source\repos\ASP\Homework\Blazor WebAssembly\MyShop\bin\Debug\net6.0\MyShop.deps.json
+P:\Учёба\Project\source\repos\ASP\Homework\Blazor WebAssembly\MyShop\bin\Debug\net6.0\MyShop.dll
+P:\Учёба\Project\source\repos\ASP\Homework\Blazor WebAssembly\MyShop\bin\Debug\net6.0\ref\MyShop.dll
+P:\Учёба\Project\source\repos\ASP\Homework\Blazor WebAssembly\MyShop\bin\Debug\net6.0\MyShop.pdb
+P:\Учёба\Project\source\repos\ASP\Homework\Blazor WebAssembly\MyShop\obj\Debug\net6.0\MyShop.csproj.AssemblyReference.cache
+P:\Учёба\Project\source\repos\ASP\Homework\Blazor WebAssembly\MyShop\obj\Debug\net6.0\MyShop.GeneratedMSBuildEditorConfig.editorconfig
+P:\Учёба\Project\source\repos\ASP\Homework\Blazor WebAssembly\MyShop\obj\Debug\net6.0\MyShop.AssemblyInfoInputs.cache
+P:\Учёба\Project\source\repos\ASP\Homework\Blazor WebAssembly\MyShop\obj\Debug\net6.0\MyShop.AssemblyInfo.cs
+P:\Учёба\Project\source\repos\ASP\Homework\Blazor WebAssembly\MyShop\obj\Debug\net6.0\MyShop.csproj.CoreCompileInputs.cache
+P:\Учёба\Project\source\repos\ASP\Homework\Blazor WebAssembly\MyShop\obj\Debug\net6.0\staticwebassets.build.json
+P:\Учёба\Project\source\repos\ASP\Homework\Blazor WebAssembly\MyShop\obj\Debug\net6.0\staticwebassets.development.json
+P:\Учёба\Project\source\repos\ASP\Homework\Blazor WebAssembly\MyShop\obj\Debug\net6.0\scopedcss\Component1.razor.rz.scp.css
+P:\Учёба\Project\source\repos\ASP\Homework\Blazor WebAssembly\MyShop\obj\Debug\net6.0\scopedcss\bundle\MyShop.styles.css
+P:\Учёба\Project\source\repos\ASP\Homework\Blazor WebAssembly\MyShop\obj\Debug\net6.0\scopedcss\projectbundle\MyShop.bundle.scp.css
+P:\Учёба\Project\source\repos\ASP\Homework\Blazor WebAssembly\MyShop\obj\Debug\net6.0\MyShop.dll
+P:\Учёба\Project\source\repos\ASP\Homework\Blazor WebAssembly\MyShop\obj\Debug\net6.0\ref\MyShop.dll
+P:\Учёба\Project\source\repos\ASP\Homework\Blazor WebAssembly\MyShop\obj\Debug\net6.0\MyShop.pdb
